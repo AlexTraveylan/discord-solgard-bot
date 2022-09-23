@@ -308,4 +308,4 @@ recupennemyguild = {
 # print(recuperer_clashID_ennemyguildID(r.text))
 
 # HALFAR >> VIOLET//SMANIR >> VERT + VIOLET
-bot.run("OTkzOTg1ODY2ODczNzE2ODM2.GqvaxF.d4QAN4qskwULdLjmdOnZtfcJ7sOjOBM5zyXNWc")
+bot.run("******************************************")
