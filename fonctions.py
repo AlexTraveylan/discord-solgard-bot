@@ -28,19 +28,19 @@ class user_config:
             self.user_id, self.session_id)
 
 
-guild_id = "6158edb1-e2dc-4412-9c5f-a4108e1a85a2"
-buildmulti = "966540a51d7fc589b2c37a404dadaef0"
-install = "63da37e2-940e-4fc1-b379-d072078c4e22"
-gameversion = "828E1D67692F16DBA7A9500E48321C65"
-multiconfigversion = "ae55e8b002a401766a0d89b21226bc48"
-universe = "52AB1265BA18205FFD9D57B2274317D8"
+guild_id = "***********************
+buildmulti = "******************************
+install = "***************************"
+gameversion = "**********************************"
+multiconfigversion = "****************************"
+universe = "*************************"
 
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
 SERVICE_ACCOUNT_FILE = 'services.json'
 creds = None
 creds = service_account.Credentials.from_service_account_file(
     SERVICE_ACCOUNT_FILE, scopes=SCOPES)
-SAMPLE_SPREADSHEET_ID = "1rek_sc9er3S-YteHy3MzrM-9elLXf3lpDCDV2l1rbAI"
+SAMPLE_SPREADSHEET_ID = "******************************************"
 service = build('sheets', 'v4', credentials=creds)
 
 PLAYER_2 = {
