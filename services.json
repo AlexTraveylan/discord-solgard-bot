@@ -1,12 +1,13 @@
 {
   "type": "service_account",
   "project_id": "bot-solgard",
-  "private_key_id": "edee408ddae1891c5ab916dc08a0639613c9d0aa",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCr7DppVG6VPHlr\nLZOowWEE/oyFiVrvxLH3eQTMhtxNo4Oo7GbrsO/NHuKETJEnot2MLw91Bj5emOMu\no/SFQ5CwI6jr059Qx1Xl5AiCImyNR+xDsPY1PZjc9UqG2XUbpkbY3x0vi1aYkHaZ\nTKS0strWYjNFUUY8Lgmxyy5XzxWHIPqm6VI/Ht19cQ+XTWOMO60r5qfmgzQdZQ6/\nk/A/ocP9T1LQ2aBSkeD8SAoy+Zi9WsVApX6+hRoQ8SPAqmIaKRl4dbdNgnKYlXpr\npdCBTMut5sNECLv/oN8BgXQDrpLf27CJsna3UNyMJ10gkfZhTsRWA5QsMIufsuyk\nTURG6QNJAgMBAAECggEAIS3C/RJcEAV+ejpuwXXmeyAD7v551AV+AgAzNqR9LieV\nEFvlJe287bVc6kLbjY5vGq93WHKGxVtUlqryFOjb6r5LCo4J9D0v/OCT6sdpcx+S\n/2JOtaooTtYw1pLveJFPoWl3mLYXlXRlywKBU9UjihWkBuffOdx5pvwK+su+gBgC\naTZYK6tq9FZqhCKHlf6vQzyMRPFAlG3x46XvP0Xtkj9lA/oGKsY5dsXLfQDtcjhF\nvBeXG2BfX4XnMirFIIUSv3q7m7IhVcAgt8lSSyQ1PDpmZh4iWBGnE9FZMveHtZqo\noIeL4mb1/pI1DHbINY83t6pF+7yvUpSonCEkerz+/QKBgQDdIrG1Q+xIatiQqKie\noLCald8Mc//oKp66uWHMHqLu2amxo4cjRstgVioH3B3Sf2gj9W7D/I8ZTgBfXChu\n1RNLWQ6pNsEYNf9I8orJLlWYQKsqmYyaVMkdx24lifg9qlz86NuPrQR424yJjM6v\nJYynLyolsxhK44ANzHcTiS3DDQKBgQDHBz7jFwGwMfTP0sa39yvQfIUj59aFacjo\nU4oS+xNuQcqNs/aBqjt6qaoLaUYzh2mHvM72FYABI1d0RfHcSm4DlmncliVRBBvR\ne6e12coNIzWpyg4DMNd6hDGJKDkvjaqUNfhGtEIRl7wlOEnDsnD/niidjDlR61Ma\n5tcQSE4iLQKBgBT4gE/HVDX94/G7/NmmNXlDczaUHZWfzRO6FtsroJn0DFKrRlqD\nETBem3fJWQ6oRHD8ineNkOh+bCye6bqw/DZuCKTla2RnYoFBdwXjHfzlTRYqH5pX\nJgdr7TckIWV/rXfSgVfbuYvYjjhRIRyc+/yyzVVr6YbYkkE8vaIdpThVAoGAcELv\n/9tsQlwLQGYdXIr4lcKGvrf4UoxWnGTyjr48OYa2n7MQqhbBMfEdTw50YIBS0BN5\nkWiTKREsNRN21tDMuQ1QbPHr3oS4xDJBaNuNkld332tu9/HGuP5zim+7wczgmHTQ\ns+DdG1tA7qWPRekSv7wQIL2FX2WjHJt0V2TRXYkCgYBDZBAJYTDABnqVAvC9TMIQ\nI5RFJ0WFEva/0nNoni3VydrzpB4cRq0Sd0qskCyjSz5i8MT+M94OEr9/PfxkpAKW\nR0aNUj9r4wllvYweMwuU+a/oMTvqjV6DN3vUPvyjAiFGGJE3ZtgcbNdRzLC9R/U4\nq5/GfYDrIGKOdxbZD4bOwA==\n-----END PRIVATE KEY-----\n",
-  "client_email": "bot-alakazam@bot-solgard.iam.gserviceaccount.com",
-  "client_id": "113961515498845632676",
+  "private_key_id": "******************************",
+  "private_key": "-----BEGIN PRIVATE KEY-----\*********************\n-----END PRIVATE KEY-----\n",
+  "client_email": "***********************",
+  "client_id": "********************",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bot-alakazam%40bot-solgard.iam.gserviceaccount.com"
+  "auth_provider_x509_cert_url": "***********************",
+  "client_x509_cert_url": "****************************"
 }
+*
