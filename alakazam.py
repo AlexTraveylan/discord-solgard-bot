@@ -1,48 +1,51 @@
 from requests import post
 from fonctions import *
 
+#found the connexionpost with mitmproxy
+
 connexionpost = {
-    "builtInMultiConfigVersion": "966540a51d7fc589b2c37a404dadaef0",
-    "installId": "63da37e2-940e-4fc1-b379-d072078c4e22",
+    "builtInMultiConfigVersion": "***********************",
+    "installId": "***********************",
     "playerEvent": {
-        "createdOn": "1657051724331",
-        "gameConfigVersion": "828E1D67692F16DBA7A9500E48321C65",
-        "multiConfigVersion": "ae55e8b002a401766a0d89b21226bc48",
+        "createdOn": "*************",
+        "gameConfigVersion": "********************",
+        "multiConfigVersion": "*************************",
         "playerEventData": {
-            "clientSecret": "7d0ef76f-c06a-46a2-8b16-8500978ab6be",
+            "clientSecret": "*********************e",
             "deviceData": {
-                "buildString": "2.29.1.1022",
+                "buildString": "********************",
                 "countryCode": "FR",
-                "deviceId": "F9A06011-5ACC-4339-BFD7-5BDCD9E67921",
-                "graphicsDeviceName": "Apple A13 GPU",
-                "graphicsShaderLevel": 50,
-                "installId": "63da37e2-940e-4fc1-b379-d072078c4e22",
-                "locale": "fr-FR",
-                "manufacturer": "apple",
-                "model": "iPhone12,1",
-                "os": "iOS 15.5",
-                "platform": "iOS",
-                "processorType": "arm64e",
+                "deviceId": "*****************",
+                "graphicsDeviceName": "******************",
+                "graphicsShaderLevel": ********,
+                "installId": "******************",
+                "locale": "*****",
+                "manufacturer": "**********",
+                "model": "************",
+                "os": "******",
+                "platform": "******",
+                "processorType": "*********",
                 "ram": -246,
                 "screenHeight": 1792,
                 "screenWidth": 828,
-                "store": "Apple"
+                "store": "********"
             },
-            "gameCenterUserId": "G:1637897020",
-            "userId": "6a93eea9-61c3-4afc-8530-d0c6b8393d85"
+            "gameCenterUserId": "G:**************",
+            "userId": "***************"
         },
         "playerEventType": "CONNECT",
-        "universeVersion": "52AB1265BA18205FFD9D57B2274317D8"
+        "universeVersion": "***********************"
     }
 }
 
 r = requests.post(
-    "https://api-live.thor.snowprintstudios.com/player/player2/userId/6a93eea9-61c3-4afc-8530-d0c6b8393d85", json=connexionpost)
+    "https://api-live.thor.snowprintstudios.com/player/player2/userId/**************************", json=connexionpost)
 
 print(r.text)
 
 sessionID = motsuivant(r.text, "sessionId")
-alex = user_config('6a93eea9-61c3-4afc-8530-d0c6b8393d85',
+#***** -> userid
+alex = user_config('***********',
                    sessionID)
 
 
